@@ -29,7 +29,7 @@ function Install-Rdiff {
     $version = Get-LatestVersion
     Write-Host "ℹ 目标版本: $version" -ForegroundColor Cyan
 
-    $baseUrl = "https://github.com/$GITHUB_REPO/releases/$version/download"
+    $baseUrl = "https://github.com/$GITHUB_REPO/releases/download/$version"
     $assetName = "$BINARY_NAME-windows-x86_64.exe.zip"
     $downloadUrl = "$baseUrl/$assetName"
 

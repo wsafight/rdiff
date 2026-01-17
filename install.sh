@@ -86,7 +86,7 @@ install_rdiff() {
     print_info "检测到平台: ${platform}"
     print_info "目标版本: ${version}"
 
-    local base_url="https://github.com/${GITHUB_REPO}/releases/${version}/download"
+    local base_url="https://github.com/${GITHUB_REPO}/releases/download/${version}"
     local asset_name="${BINARY_NAME}-${platform}.tar.gz"
     local download_url="${base_url}/${asset_name}"
 
