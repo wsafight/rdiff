@@ -1,0 +1,11 @@
+Hello, World!
+This is a sample file for testing the rust-diff-tool.
+
+Line 3: This line will be modified
+Line 4: This line stays the same
+Line 5: This line will be deleted
+
+Some more content here.
+The quick brown fox jumps over the lazy dog.
+
+End of file.

@@ -1,0 +1,32 @@
+# Git
+.git
+.gitignore
+
+# CI/CD
+.github
+
+# 构建产物
+target/
+Cargo.lock
+
+# 测试
+test_*/
+demo_test/
+examples/
+
+# 文档
+*.md
+docs/
+
+# 临时文件
+*.tmp
+*.swp
+*~
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store

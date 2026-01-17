@@ -1,0 +1,10 @@
+Line 1: This is the first line
+Line 2: This is the second line
+Line 3: This will be modified
+Line 4: This is the fourth line
+Line 5: This will be deleted
+Line 6: This is the sixth line
+Line 7: This is the seventh line
+Line 8: This is the eighth line
+Line 9: This is the ninth line
+Line 10: This is the tenth line
