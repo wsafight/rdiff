@@ -1,6 +1,6 @@
 [package]
 name = "rust-diff-tool"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["wsafight <wsafight@outlook.com>"]
 description = "A powerful CLI diff tool with web visualization and large file optimization"
